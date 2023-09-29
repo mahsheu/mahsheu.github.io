@@ -6,11 +6,10 @@
 name: Michelle Tran-Duong
 
 # Short bio or description (displayed in the header)
-description: CS Student
+description: CS Student at the University of Iowa
 
 # URL of your avatar or profile pic (you could use your GitHub profile pic)
-avatar: https://raw.githubusercontent.com/barryclark/jekyll-now/master/images/jekyll-logo.png
-# change later once i get a logo i like 
+avatar: https://media.licdn.com/dms/image/D5603AQG3WuSmLJykdQ/profile-displayphoto-shrink_400_400/0/1695582322778?e=1701302400&v=beta&t=5vMsdZyZxBoniAoaRTX3TKKaGwh0LQXTIrxBhhxksB8
 
 #
 # Flags below are optional
@@ -19,10 +18,10 @@ avatar: https://raw.githubusercontent.com/barryclark/jekyll-now/master/images/je
 # Includes an icon in the footer for each username you enter
 footer-links:
   dribbble:
-  email: 
+  email: michelle-tran-duong@uiowa.edu 
   facebook:
   flickr:
-  github: github.com/michelletranduong
+  github: https://github.com/michelletranduong
   instagram:
   linkedin: linkedin.com/in/michelletranduong
   pinterest:
