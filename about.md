@@ -4,10 +4,18 @@ title: About
 permalink: /about/
 ---
 
-### More Information
+### Meet Michelle
 
-Hello! My name is Michelle and I'm pursuing my second B.A. in Computer Science at the University of Iowa. I graduated in May 2022 with a B.A. in International Studies in hopes of pursing a J.D. and a legal career. After my internship on Capital Hill in the U.S. House of Representatives in the summer of 2022, I reflected more on my academic and career goals. I intended to take a gap year prior to starting law school after my internship. I had the opportunity to meet some amazing individuals who introduced me to the world of tech. After a brief introduction in coding from CodeAcademy, I re-enrolled to the University of Iowa for computer science. I am interested in intersecting computer science with social issues, and health and wellness in hopes of making technology more equitable, accessible, and inclusive for all. I am excited about my new academic and career journey. Follow along to see what projects I've been working on! 
+Hi there! I'm Michelle, a computer science student at the University of Iowa and I'm passionate about developing technology that actively promotes and enhances accessibility, equity, and diversity for all. 
+
+In this digital age, leveraging our keen technological knowledge and advancements the key to creating positive change and improving our future. I feel privileged to be a part of a research lab at the University of Iowa, where I have the opportunity to witness the intersection of technology and other sectors in the pursuit of enhancing the well-being of others. 
+
+Over the past 9 months, I have equipped myself with foundational computer science courses and experiential learning opportunities. These experiences have provided me with a solid grasp of programming languages and a fruitful introduction to the world of technology and software development. 
+
+Historically, the tech industry has been male and white dominated and with many gender and racial disparities. I hope to be a part of the movement to lead the world of technology into a more inclusive, empowering, and safe space, especially for women of color (WOC).
+
+Follow along and stay tuened to see the projects I've been passionately developing and the exciting discoveries I make in my on-going tech journey!
 
 ### Contact me
 
-[email@domain.com](mailto:michelle-tran-duong@uiowa.edu)
+[michelletranduong@gmail.com](mailto:michelle-tran-duong@uiowa.edu)
