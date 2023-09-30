@@ -4,7 +4,7 @@ title: About
 permalink: /about/
 ---
 
-### Meet Michelle
+### Meet Michelle!
 
 Hi there! I'm Michelle, a computer science student at the University of Iowa and I'm passionate about developing technology that actively promotes and enhances accessibility, equity, and diversity for all. 
 
