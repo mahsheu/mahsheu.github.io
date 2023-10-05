@@ -9,7 +9,7 @@ name: Michelle Tran-Duong
 description: CS Student at the University of Iowa
 
 # URL of your avatar or profile pic (you could use your GitHub profile pic)
-avatar: https://media.licdn.com/dms/image/D5603AQG3WuSmLJykdQ/profile-displayphoto-shrink_400_400/0/1695582322778?e=1701302400&v=beta&t=5vMsdZyZxBoniAoaRTX3TKKaGwh0LQXTIrxBhhxksB8
+avatar: https://media.licdn.com/dms/image/D5603AQFS1n385Mxthg/profile-displayphoto-shrink_200_200/0/1696378167266?e=1701907200&v=beta&t=UM9_4pB4OFhp-n5kk8fJJtQ66V7EXfpdDQH9TTAQggc
 
 #
 # Flags below are optional
@@ -84,19 +84,3 @@ exclude:
   - LICENSE
   - README.md
   - CNAME
-
-fonts:
-  google_fonts: 'https://fonts.google.com/specimen/Nunito'
-  heading: 'Nunito'
-  base: 'Nunito'
-  monospace: 'Fira Mono'
-  logo: 'Nunito'
-
-colors:
-  primary: '#0d042b'
-  primary_text: '#fdfcf9'
-  background: '#fdfcf9'
-  background_2: '#f7f6ed'
-  background_3: '#faebd7'
-  text: '#0d042b'
-  text_2: '#3b364c'
